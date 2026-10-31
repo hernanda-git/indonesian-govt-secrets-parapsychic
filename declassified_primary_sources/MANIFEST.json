@@ -1,0 +1,272 @@
+[
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_42_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800340001-7",
+    "description": "DIA Project GRILL FLAME Session CC42 targeting the US Embassy compound in Tehran, Iran",
+    "pdf_path": "pdf/GRILL_FLAME_Session_42_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 594190,
+    "txt_path": "txt/GRILL_FLAME_Session_42_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 20403
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_CC9_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800050001-9",
+    "description": "Project GRILL FLAME Session CC9 targeting hostage locations in Tehran Embassy",
+    "pdf_path": "pdf/GRILL_FLAME_Session_CC9_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 289974,
+    "txt_path": "txt/GRILL_FLAME_Session_CC9_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 10590
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_16_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800110001-2",
+    "description": "GRILL FLAME RV Session 16 on US Embassy hostages and security sentries",
+    "pdf_path": "pdf/GRILL_FLAME_Session_16_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 774203,
+    "txt_path": "txt/GRILL_FLAME_Session_16_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 28916
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_CC26_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800200001-2",
+    "description": "Project GRILL FLAME Session CC26 evaluating hostage room layouts",
+    "pdf_path": "pdf/GRILL_FLAME_Session_CC26_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 1525388,
+    "txt_path": "txt/GRILL_FLAME_Session_CC26_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 30972
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_CC33_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800260001-6",
+    "description": "Summary Remote Viewing Session CC33 targeting Chancery building",
+    "pdf_path": "pdf/GRILL_FLAME_Session_CC33_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 893300,
+    "txt_path": "txt/GRILL_FLAME_Session_CC33_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 26262
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_CC34_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800270001-5",
+    "description": "Summary Remote Viewing Session CC34 targeting diplomatic personnel in Tehran",
+    "pdf_path": "pdf/GRILL_FLAME_Session_CC34_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 951336,
+    "txt_path": "txt/GRILL_FLAME_Session_CC34_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 27259
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_CC47_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800390001-2",
+    "description": "Summary Remote Viewing Session CC47 on hostage movement",
+    "pdf_path": "pdf/GRILL_FLAME_Session_CC47_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 771360,
+    "txt_path": "txt/GRILL_FLAME_Session_CC47_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 20896
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_CC54_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800450001-5",
+    "description": "Summary Remote Viewing Session CC54 on embassy compound security",
+    "pdf_path": "pdf/GRILL_FLAME_Session_CC54_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 583014,
+    "txt_path": "txt/GRILL_FLAME_Session_CC54_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 20608
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_CC59_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800500001-9",
+    "description": "Summary Remote Viewing Session CC59 targeting ambassadorial residence",
+    "pdf_path": "pdf/GRILL_FLAME_Session_CC59_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 671673,
+    "txt_path": "txt/GRILL_FLAME_Session_CC59_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 23475
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "GRILL_FLAME_Session_CCC63_Tehran_Hostage_US_Embassy",
+    "identifier": "cia-readingroom-document-cia-rdp96-00788r000800880001-8",
+    "description": "Summary Remote Viewing Session CCC63 correlation analysis",
+    "pdf_path": "pdf/GRILL_FLAME_Session_CCC63_Tehran_Hostage_US_Embassy.pdf",
+    "pdf_bytes": 462772,
+    "txt_path": "txt/GRILL_FLAME_Session_CCC63_Tehran_Hostage_US_Embassy.txt",
+    "txt_bytes": 16355
+  },
+  {
+    "category": "GRILL_FLAME_TEHRAN_EMBASSY",
+    "name": "CIA_Intelligence_Report_US_Psychic_Spies_Iran",
+    "identifier": "cia-readingroom-document-cia-rdp96-00791r000100030073-5",
+    "description": "CIA Intelligence Report on US deployment of psychic spies in the Iran Crisis",
+    "pdf_path": "pdf/CIA_Intelligence_Report_US_Psychic_Spies_Iran.pdf",
+    "pdf_bytes": 753760,
+    "txt_path": "txt/CIA_Intelligence_Report_US_Psychic_Spies_Iran.txt",
+    "txt_bytes": 32135
+  },
+  {
+    "category": "SOVIET_PARAPSYCHOLOGY_PSYCHOTRONICS",
+    "name": "CIA_Parapsychology_in_the_USSR_Report",
+    "identifier": "cia-readingroom-document-cia-rdp96-00792r000500210001-9",
+    "description": "Comprehensive CIA Intelligence Assessment: Parapsychology in the USSR (1960-1977)",
+    "pdf_path": "pdf/CIA_Parapsychology_in_the_USSR_Report.pdf",
+    "pdf_bytes": 394932,
+    "txt_path": "txt/CIA_Parapsychology_in_the_USSR_Report.txt",
+    "txt_bytes": 16739
+  },
+  {
+    "category": "SOVIET_PARAPSYCHOLOGY_PSYCHOTRONICS",
+    "name": "DIA_Soviet_and_Czechoslovakian_Parapsychology_Research",
+    "identifier": "cia-readingroom-document-cia-rdp96-00792r000600350002-2",
+    "description": "DIA Research Report on Soviet and Czechoslovakian parapsychology/psychotronics",
+    "pdf_path": "pdf/DIA_Soviet_and_Czechoslovakian_Parapsychology_Research.pdf",
+    "pdf_bytes": 513685,
+    "txt_path": "txt/DIA_Soviet_and_Czechoslovakian_Parapsychology_Research.txt",
+    "txt_bytes": 16339
+  },
+  {
+    "category": "SOVIET_PARAPSYCHOLOGY_PSYCHOTRONICS",
+    "name": "DOD_Psychoenergetics_Assessment",
+    "identifier": "cia-readingroom-document-cia-rdp96-00792r000600310001-7",
+    "description": "Department of Defense Assessment on Psychoenergetics and Telepathic Applications",
+    "pdf_path": "pdf/DOD_Psychoenergetics_Assessment.pdf",
+    "pdf_bytes": 2295209,
+    "txt_path": "txt/DOD_Psychoenergetics_Assessment.txt",
+    "txt_bytes": 96075
+  },
+  {
+    "category": "SOVIET_PARAPSYCHOLOGY_PSYCHOTRONICS",
+    "name": "Use_of_ESP_for_Communication_Tested_with_US_Cooperation",
+    "identifier": "cia-readingroom-document-cia-rdp96-00792r000600070004-1",
+    "description": "Intelligence study on Soviet telepathic and ESP communication experiments",
+    "pdf_path": "pdf/Use_of_ESP_for_Communication_Tested_with_US_Cooperation.pdf",
+    "pdf_bytes": 93003,
+    "txt_path": "txt/Use_of_ESP_for_Communication_Tested_with_US_Cooperation.txt",
+    "txt_bytes": 2664
+  },
+  {
+    "category": "SOVIET_PARAPSYCHOLOGY_PSYCHOTRONICS",
+    "name": "Soviet_Electronic_Devices_Modeled_After_Living_Systems",
+    "identifier": "cia-readingroom-document-cia-rdp96-00792r000500260002-3",
+    "description": "Soviet electronic devices and biophysical sensor models",
+    "pdf_path": "pdf/Soviet_Electronic_Devices_Modeled_After_Living_Systems.pdf",
+    "pdf_bytes": 167809,
+    "txt_path": "txt/Soviet_Electronic_Devices_Modeled_After_Living_Systems.txt",
+    "txt_bytes": 5632
+  },
+  {
+    "category": "SOVIET_PARAPSYCHOLOGY_PSYCHOTRONICS",
+    "name": "Defense_News_US_Explores_Russian_Mind_Control_Tech",
+    "identifier": "cia-readingroom-document-cia-rdp96-00792r000500680012-6",
+    "description": "Defense News analysis on US government inquiries into Russian mind-control technology",
+    "pdf_path": "pdf/Defense_News_US_Explores_Russian_Mind_Control_Tech.pdf",
+    "pdf_bytes": 151231,
+    "txt_path": "txt/Defense_News_US_Explores_Russian_Mind_Control_Tech.txt",
+    "txt_bytes": 5430
+  },
+  {
+    "category": "SOVIET_PARAPSYCHOLOGY_PSYCHOTRONICS",
+    "name": "For_Reporter_Toth_A_Lesson_in_Soviet_Paranoia",
+    "identifier": "cia-readingroom-document-cia-rdp90-00965r000504610002-7",
+    "description": "Declassified analysis of the Robert Toth KGB interrogation over Soviet parapsychology",
+    "pdf_path": "pdf/For_Reporter_Toth_A_Lesson_in_Soviet_Paranoia.pdf",
+    "pdf_bytes": 216282,
+    "txt_path": "txt/For_Reporter_Toth_A_Lesson_in_Soviet_Paranoia.txt",
+    "txt_bytes": 9896
+  },
+  {
+    "category": "MOSCOW_EMBASSY_MICROWAVE_PANDORA",
+    "name": "State_Dept_Coverup_of_Moscow_Embassy_Microwaves",
+    "identifier": "cia-readingroom-document-cia-rdp88b01125r000300120055-1",
+    "description": "Intelligence dispatch on Foreign Service Officer reactions to Moscow Embassy microwave beaming",
+    "pdf_path": "pdf/State_Dept_Coverup_of_Moscow_Embassy_Microwaves.pdf",
+    "pdf_bytes": 19196,
+    "txt_path": "txt/State_Dept_Coverup_of_Moscow_Embassy_Microwaves.txt",
+    "txt_bytes": 612
+  },
+  {
+    "category": "MOSCOW_EMBASSY_MICROWAVE_PANDORA",
+    "name": "Embassy_in_Moscow_A_Furor_Grows",
+    "identifier": "cia-readingroom-document-cia-rdp90-00965r000302520002-1",
+    "description": "Intelligence compilation on microwave radiation and biological hazards in Moscow Embassy",
+    "pdf_path": "pdf/Embassy_in_Moscow_A_Furor_Grows.pdf",
+    "pdf_bytes": 131412,
+    "txt_path": "txt/Embassy_in_Moscow_A_Furor_Grows.txt",
+    "txt_bytes": 7167
+  },
+  {
+    "category": "MOSCOW_EMBASSY_MICROWAVE_PANDORA",
+    "name": "Phone_Line_Carries_Radiation_to_US_Embassy_Moscow",
+    "identifier": "cia-readingroom-document-cia-rdp88b01125r000300120059-7",
+    "description": "Declassified report on transmission lines carrying microwave radiation to Embassy",
+    "pdf_path": "pdf/Phone_Line_Carries_Radiation_to_US_Embassy_Moscow.pdf",
+    "pdf_bytes": 72312,
+    "txt_path": "txt/Phone_Line_Carries_Radiation_to_US_Embassy_Moscow.txt",
+    "txt_bytes": 3623
+  },
+  {
+    "category": "MOSCOW_EMBASSY_MICROWAVE_PANDORA",
+    "name": "Embassy_Staff_Blood_Tested_in_Moscow",
+    "identifier": "cia-readingroom-document-cia-rdp88-01315r000400270004-8",
+    "description": "Medical testing of US Foreign Service personnel following microwave exposure in Moscow",
+    "pdf_path": "pdf/Embassy_Staff_Blood_Tested_in_Moscow.pdf",
+    "pdf_bytes": 66743,
+    "txt_path": "txt/Embassy_Staff_Blood_Tested_in_Moscow.txt",
+    "txt_bytes": 3400
+  },
+  {
+    "category": "UAP_INTELLIGENCE_REPORTS",
+    "name": "Robertson_Panel_Scientific_Advisory_Report_UFO_1953",
+    "identifier": "cia-readingroom-document-cia-rdp79b00752a000300100010-4",
+    "description": "Official Report of the 1953 Robertson Scientific Advisory Panel on UFOs (CIA/OSI)",
+    "pdf_path": "pdf/Robertson_Panel_Scientific_Advisory_Report_UFO_1953.pdf",
+    "pdf_bytes": 2059479,
+    "txt_path": "txt/Robertson_Panel_Scientific_Advisory_Report_UFO_1953.txt",
+    "txt_bytes": 63022
+  },
+  {
+    "category": "UAP_INTELLIGENCE_REPORTS",
+    "name": "CIA_Sightings_of_Unidentified_Flying_Objects_Official_File",
+    "identifier": "cia-readingroom-document-0000015481",
+    "description": "CIA Intelligence collection on global sightings of unidentified flying objects",
+    "pdf_path": "pdf/CIA_Sightings_of_Unidentified_Flying_Objects_Official_File.pdf",
+    "pdf_bytes": 453014,
+    "txt_path": "txt/CIA_Sightings_of_Unidentified_Flying_Objects_Official_File.txt",
+    "txt_bytes": 8672
+  },
+  {
+    "category": "UAP_INTELLIGENCE_REPORTS",
+    "name": "CIA_Sightings_of_Unidentified_Flying_Objects_Summer_1954",
+    "identifier": "cia-readingroom-document-0000015480",
+    "description": "Declassified CIA report on international UFO sightings",
+    "pdf_path": "pdf/CIA_Sightings_of_Unidentified_Flying_Objects_Summer_1954.pdf",
+    "pdf_bytes": 273252,
+    "txt_path": "txt/CIA_Sightings_of_Unidentified_Flying_Objects_Summer_1954.txt",
+    "txt_bytes": 5561
+  },
+  {
+    "category": "UAP_INTELLIGENCE_REPORTS",
+    "name": "CIA_Flying_Saucers_UFO_Reports_Dossier",
+    "identifier": "cia-readingroom-document-cia-rdp81r00560r000100010002-9",
+    "description": "CIA master intelligence file on flying saucers and anomalous aerial phenomena",
+    "pdf_path": "pdf/CIA_Flying_Saucers_UFO_Reports_Dossier.pdf",
+    "pdf_bytes": 21836977,
+    "txt_path": "txt/CIA_Flying_Saucers_UFO_Reports_Dossier.txt",
+    "txt_bytes": 203656
+  },
+  {
+    "category": "UAP_INTELLIGENCE_REPORTS",
+    "name": "USSR_Media_Report_Multitude_of_UFO_Sightings",
+    "identifier": "cia-readingroom-document-0000042346",
+    "description": "CIA Foreign Broadcast Information Service (FBIS) report on Soviet UFO sightings",
+    "pdf_path": "pdf/USSR_Media_Report_Multitude_of_UFO_Sightings.pdf",
+    "pdf_bytes": 387865,
+    "txt_path": "txt/USSR_Media_Report_Multitude_of_UFO_Sightings.txt",
+    "txt_bytes": 14163
+  }
+]
